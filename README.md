@@ -85,8 +85,8 @@
 
 <ul>
     <li><b>Arduino Uno</b></li>
-    <li><b>2 x DC Motors</b></li>
-    <li><b>2 x Motor Driver (L298N)</b></li>
+    <li><b>4 x DC Motors</b></li>
+    <li><b>Motor Driver (L298N)</b></li>
     <li><b>Ultrasonic Sensor (HC-SR04)</b></li>
     <li><b>Infrared Sensors (TCRT5000)</b></li>
     <li><b>Wireless Remote Control</b></li>
