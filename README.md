@@ -14,15 +14,15 @@
 
 <h2>🏡 The Problem</h2>
 
-<p>Robotics and automation have revolutionized the way we interact with the world. But traditional robots can be expensive, limited in functionality, or difficult to control. What if we could design a **smart, affordable robot car** that could **navigate autonomously, follow paths, avoid obstacles**, and be easily controlled? 🤔</p>
+<p>Robotics and automation have revolutionized the way we interact with the world. But traditional robots can be expensive, limited in functionality, or difficult to control. What if we could design a smart, affordable robot car that could navigate autonomously, follow paths, avoid obstacles, and be easily controlled? 🤔</p>
 
-<p>That's where the **Multi-functional RC Smart Robot Car** comes in!</p>
+<p>That's where the Multi-functional RC Smart Robot Car comes in!</p>
 
 <hr>
 
 <h2>💡 The Smart Solution</h2>
 
-<p>Introducing the **Multi-functional RC Smart Robot Car**, an incredible blend of technology designed to **navigate autonomously**, **avoid obstacles**, and **follow lines** with the added flexibility of **manual remote control**.</p>
+<p>Introducing the Multi-functional RC Smart Robot Car, an incredible blend of technology designed to navigate autonomously, avoid obstacles, and follow lines with the added flexibility of manual remote control.</p>
 
 <p>This robot car is perfect for anyone interested in robotics, automation, or simply wanting to explore the future of smart vehicles. With its compact design, it is not only a fun project but also a great learning tool!</p>
 
@@ -43,9 +43,9 @@
 <h2>🛠️ How It Works</h2>
 
 <ul>
-    <li>🔹 **Obstacle Avoidance** – Ultrasonic sensors measure the distance to objects in real-time. The car adjusts its movement to avoid collisions by either stopping or changing direction.</li>
-    <li>🔹 **Line Tracking** – Using infrared sensors, the car follows a black line drawn on a white surface, making it ideal for path-following projects and automated systems.</li>
-    <li>🔹 **Remote Control** – The car can be fully controlled via a wireless remote for manual operation, giving users full flexibility to steer the car when needed.</li>
+    <li>🔹 Obstacle Avoidance – Ultrasonic sensors measure the distance to objects in real-time. The car adjusts its movement to avoid collisions by either stopping or changing direction.</li>
+    <li>🔹 Line Tracking – Using infrared sensors, the car follows a black line drawn on a white surface, making it ideal for path-following projects and automated systems.</li>
+    <li>🔹 Remote Control – The car can be fully controlled via a wireless remote for manual operation, giving users full flexibility to steer the car when needed.</li>
 </ul>
 
 <hr>
@@ -64,9 +64,9 @@
 <h2>🌍 Why This Project Matters for the Future?</h2>
 
 <ul>
-    <li>✅ **Affordable Robotics** – Combines cutting-edge features into an accessible, low-cost project.</li>
-    <li>✅ **Hands-On Learning** – A great platform for learning electronics, programming, and robotics.</li>
-    <li>✅ **Real-World Applications** – Can be adapted for automated systems, smart deliveries, and robotics education.</li>
+    <li>✅ Affordable Robotics – Combines cutting-edge features into an accessible, low-cost project.</li>
+    <li>✅ Hands-On Learning – A great platform for learning electronics, programming, and robotics.</li>
+    <li>✅ Real-World Applications – Can be adapted for automated systems, smart deliveries, and robotics education.</li>
 </ul>
 
 <hr>
