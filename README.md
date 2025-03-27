@@ -134,15 +134,15 @@ void loop() {
 <table align="center" border="0" cellpadding="10">
     <tr>
         <td align="center">
-            <img src="https://github.com/Rakibul10x/RC-Smart-Robot-Car/blob/main/Obstacle-Detection.png" alt="Obstacle Detection" width="300">
+            <img src="https://github.com/Rakibul10x/Multi-functional-RC-Smart-Robot-Car-The-Future-of-Robotics-/blob/main/Obstacle%20Detection%20in%20Action.png" alt="Obstacle Detection" width="300">
             <p>📸 Obstacle Detection in Action</p>
         </td>
         <td align="center">
-            <img src="https://github.com/Rakibul10x/RC-Smart-Robot-Car/blob/main/Line-Tracking.png" alt="Line Tracking" width="300">
+            <img src="https://github.com/Rakibul10x/Multi-functional-RC-Smart-Robot-Car-The-Future-of-Robotics-/blob/main/Line%20Tracking%20Path.png" alt="Line Tracking" width="300">
             <p>📸 Line Tracking Path</p>
         </td>
         <td align="center">
-            <img src="https://github.com/Rakibul10x/RC-Smart-Robot-Car/blob/main/Remote-Control-Operation.png" alt="Remote Control Operation" width="300">
+            <img src="https://github.com/Rakibul10x/Multi-functional-RC-Smart-Robot-Car-The-Future-of-Robotics-/blob/main/Remote%20Control%20Operation.png" alt="Remote Control Operation" width="300">
             <p>📸 Remote Control Operation</p>
         </td>
     </tr>
