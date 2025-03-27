@@ -157,7 +157,7 @@ void loop() {
 <table align="center" border="0" cellpadding="10">
     <tr>
         <td align="center">
-            <img src="https://example.com/kid-learning-robot.jpg" alt="Kid Learning Robot Functionality" width="300">
+            <img src="https://github.com/Rakibul10x/Multi-functional-RC-Smart-Robot-Car-The-Future-of-Robotics-/blob/main/RC%204%20Wheel%20Drive%20Smart%20Robot%20Car.png" alt="Kid Learning Robot Functionality" width="300">
             <p>📸 Learning robotics and technology with fun!</p>
         </td>
     </tr>
