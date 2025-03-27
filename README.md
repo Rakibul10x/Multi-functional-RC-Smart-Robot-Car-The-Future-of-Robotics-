@@ -150,6 +150,20 @@ void loop() {
 
 <hr>
 
+<h2>🤖 Interaction with Kids</h2>
+
+<p>Our Smart Robot Car is designed to be a fun and educational experience for children! Watch how kids engage with the robot:</p>
+
+<table align="center" border="0" cellpadding="10">
+    <tr>
+        <td align="center">
+            <img src="https://example.com/kid-learning-robot.jpg" alt="Kid Learning Robot Functionality" width="300">
+            <p>📸 Learning robotics and technology with fun!</p>
+        </td>
+    </tr>
+</table>
+
+
 <h2>📌 Contribution & Support</h2>
 
 <p>If you love this project, give it a ⭐ and contribute to its future enhancements!</p>
